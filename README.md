@@ -24,6 +24,8 @@ CoreView is a modern peer review tool that combines PDF annotation with AI assis
 - **Citation Verification**: Verify that citations actually support the claims made in the paper
 - **Statistical Analysis**: Detect potential p-hacking and questionable research practices
 - **Code Verification**: Analyze embedded code snippets for correctness and reproducibility
+- **Missing Analysis Detection**: Identifies critical omissions (e.g., no limitations section, missing effect sizes, absent power analysis)
+- **Consistency Checker**: Flags inconsistencies between abstract, methods, results, and conclusions
 
 ## Planned Architecture
 
