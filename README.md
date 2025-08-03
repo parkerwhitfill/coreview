@@ -6,16 +6,22 @@ An AI-powered peer review assistant that brings Cursor-like intelligence to acad
 
 CoreView is a modern peer review tool that combines PDF annotation with AI assistance to streamline and enhance the academic review process. Think of it as "Cursor for peer review" - providing intelligent, context-aware assistance throughout the review workflow.
 
+### AI-Powered Review Assistance
+- Contextual suggestions while reviewing papers
+- Auto-completion of review comments
+- Smart highlighting of potential issues and areas of concern
+- Intelligent question generation based on paper content
+
 ## Key Features
 
 ### Interactive PDF Review
 - Load and navigate academic papers in PDF format
-- Take screenshots of specific sections for focused discussion
+- Take screenshots or select regions of the paper for focused discussion (screenshot capture helps when PDFs have poor text selection)
 - Ask questions about particular parts of the paper with visual context
 
 ### Automated Verification Tools
 - **Proof Checking**: Automatically verify mathematical proofs and logical arguments
-- **Citation Validation**: Check citations for accuracy and proper formatting
+- **Citation Verification**: Verify that citations actually support the claims made in the paper
 - **Statistical Analysis**: Detect potential p-hacking and questionable research practices
 - **Code Verification**: Analyze embedded code snippets for correctness and reproducibility
 
@@ -27,7 +33,7 @@ CoreView is a modern peer review tool that combines PDF annotation with AI assis
   - PDF processing and rendering
   - Screenshot capture and management
   - Automated verification engines
-  - Real-time collaboration features
+  - Citation claim verification
 
 ## Getting Started
 
